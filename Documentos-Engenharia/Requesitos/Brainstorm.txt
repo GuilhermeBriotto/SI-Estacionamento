@@ -1,9 +1,7 @@
 Colocar cancelas para o controle da entrada e saída dos veículos
 Sensores nas vagas para a leitura de sobressalentes
-Câmera de vigilância
 Automatização do pagamento atraves de maquinas de cartão de crédito/débito
 Utilizar comandas para o controle do tempo de estadia
-Melhor organização dos veiculos nas vagas
 Disponibilizar treinameto para os manobristas estacionarem melhor
 
 
